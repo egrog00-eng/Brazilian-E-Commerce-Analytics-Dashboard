@@ -188,10 +188,9 @@ CALCULATE(
 ```text
 ├── Olist_Dashboard.pbix
 ├── README.md
-└── screenshots/
-    ├── overview.png
-    ├── states.png
-    └── customers.png
+├── overview.png
+├── states.png
+└── customers.png
 ```
 
 `Olist_Dashboard.pbix` — исходный файл Power BI с моделью данных, DAX-расчётами и визуализациями.
